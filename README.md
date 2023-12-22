@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anisulislam10" alt="anisulislam10" /></a> </p>
 
-- 🔭 I’m currently working on [TechChaps Website](techchaps.com)
+- 🔭 I’m currently working on [TechChaps]
 
 - 🌱 I’m currently learning **React js, WordPress Full Site Editing FSE**
 

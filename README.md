@@ -57,14 +57,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ianisulislam/)  
-- 📧 **Email:** anis.inbox10@gmail.com  
-- 🌐 **Portfolio:** [anisdev.vercel.app](https://anisdev.vercel.app/#skills)
-
----
-
-![Snake animation](https://github.com/anisulislam10/anisulislam10/blob/output/github-contribution-grid-snake.svg)

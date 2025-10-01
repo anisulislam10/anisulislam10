@@ -1,11 +1,3 @@
-# 👋 Hi, I'm Anis
-🚀 Full Stack Developer | MERN Stack Specialist | Mobile App Developer | 🌍 From Pakistan
-
-![Profile Views](https://komarev.com/ghpvc/?username=anisulislam10&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/anisulislam10?style=social)
-
----
-
 ## 🛠️ Technical Skills
 
 <table>
@@ -44,11 +36,27 @@
 
 ## 📊 GitHub Stats
 
-![Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisulislam10&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisulislam10&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anisulislam10&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td width="33%">
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=anisulislam10&color=blue" alt="Profile Views"/>
+        <br>
+        <img src="https://img.shields.io/github/followers/anisulislam10?style=social" alt="GitHub followers"/>
+      </div>
+    </td>
+    <td width="34%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisulislam10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+      </div>
+    </td>
+    <td width="33%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=anisulislam10&show_icons=true&theme=radical&hide_border=true" alt="Anis's GitHub stats"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 

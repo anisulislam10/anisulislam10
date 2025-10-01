@@ -8,23 +8,37 @@
 
 ## 🛠️ Technical Skills
 
-### **Frontend Development**
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries:** React.js, Next.js, React Native
-- **Styling:** Tailwind CSS
-- **State Management:** Redux
-
-### **Backend Development**
-- **Runtime:** Node.js
-- **Frameworks:** Express.js
-- **Databases:** MongoDB, PostgreSQL
-- **API Development:** REST APIs
-
-### **Tools & Platforms**
-- **Version Control:** Git
-- **Testing:** Postman
-- **Deployment:** Vercel, VPS
-- **IDEs:** VS Code, Android Studio
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🖥️ Frontend Development</h3>
+      <ul>
+        <li><b>Languages:</b> JavaScript, TypeScript, HTML, CSS</li>
+        <li><b>Frameworks/Libraries:</b> React.js, Next.js, React Native</li>
+        <li><b>Styling:</b> Tailwind CSS</li>
+        <li><b>State Management:</b> Redux</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3>⚙️ Backend Development</h3>
+      <ul>
+        <li><b>Runtime:</b> Node.js</li>
+        <li><b>Frameworks:</b> Express.js</li>
+        <li><b>Databases:</b> MongoDB, PostgreSQL</li>
+        <li><b>API Development:</b> REST APIs</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3>🔧 Tools & Platforms</h3>
+      <ul>
+        <li><b>Version Control:</b> Git</li>
+        <li><b>Testing:</b> Postman</li>
+        <li><b>Deployment:</b> Vercel, VPS</li>
+        <li><b>IDEs:</b> VS Code, Android Studio</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
